@@ -28,7 +28,7 @@ En este curso académico, el problema a abordar tiene una gran importancia socia
 
 Según lo anterior, el problema concreto que abordaremos en la asignatura se puede describir así:
 
-> Tras el incendio ocurrido en Sierra Bermeja en 2021, la Junta de Andalucía decide iniciar un proyecto de restauración de la zona quemada. Para ello, encarga a los estudiantes de GEOFOREST que realicen una zonificación (o estratificación) del territorio en virtud de una serie de variables ambientales: intensidad del fuego, radiación solar, biodiversidad previa al incendio, etc.
+> Tras el incendio ocurrido en Sierra Bermeja (provincia de Málaga) en 2021, la Junta de Andalucía decide iniciar un proyecto de restauración de la zona quemada. Para ello, encarga a los estudiantes de GEOFOREST que realicen una zonificación (o estratificación) del territorio en virtud de una serie de variables ambientales: intensidad del fuego, radiación solar, biodiversidad previa al incendio, etc.
 
 Seguro que te ha salido una sonrisa torcida al leer que "la Junta de Andalucía encarga a los estudiantes de GEOFOREST". No ha sido así en esta ocasión. Pero en menos de lo que te imaginas recibirás encargos parecidos... Así que, manos a la obra :)
 
@@ -42,9 +42,9 @@ Es importante que aprendamos a crear flujos de trabajo porque nos ayudan en el p
 
 En los siguientes enlaces tienes información sobre flujos de trabajo. Recomendamos su lectura:
 
-+ [El papel de los flujos de trabajo en la reproducibilidad de la ciencia.](https://github.com/aprendiendo-cosas/Te_introduccion_SIG_II_geoforest/raw/main/biblio/how_to_flow.pdf) 
-+ Descripción de [Kepler](https://github.com/aprendiendo-cosas/Te_introduccion_SIG_II_geoforest/raw/main/biblio/kepler.pdf), un sistema de flujo de trabajo científico muy útil (y algo complejo).
-+ [Ejemplos de flujos de trabajo.](https://github.com/aprendiendo-cosas/Te_introduccion_SIG_II_geoforest/raw/main/biblio/workflow_reusable.pdf) 
++ [El papel de los flujos de trabajo en la reproducibilidad de la ciencia.](https://github.com/aprendiendo-cosas/Te_introduccion_SIG_II_geoforest/raw/2023_2024/biblio/how_to_flow.pdf) 
++ Descripción de [Kepler](https://github.com/aprendiendo-cosas/Te_introduccion_SIG_II_geoforest/raw/2023_2024/biblio/kepler.pdf), un sistema de flujo de trabajo científico muy útil (y algo complejo).
++ [Ejemplos de flujos de trabajo.](https://github.com/aprendiendo-cosas/Te_introduccion_SIG_II_geoforest/raw/2023_2024/biblio/workflow_reusable.pdf) 
 
 A lo largo de la asignatura trabajaremos ejecutando los pasos que se describen en el siguiente flujo de trabajo:
 
