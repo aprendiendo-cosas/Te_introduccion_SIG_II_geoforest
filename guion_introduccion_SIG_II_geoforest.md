@@ -1,7 +1,7 @@
 # Guión de la sesión introductoria de la asignatura "Sistemas de información geográfica y ecología espacial: aplicaciones"
 
 
-> + **_Versión_**: 2023-2024
+> + **_Versión_**: 2024-2025
 > + **_Asignatura_** : SIG II (Máster GEOFOREST). 
 > + **_Autor_**: Antonio J. Molina Herrera (o22mohea@uco.es) y Curro Bonet-García (fjbonet@uco.es)
 > + **_Duración_**: 0.5 horas.
