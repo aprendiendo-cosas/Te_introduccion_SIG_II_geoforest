@@ -42,9 +42,9 @@ Es importante que aprendamos a crear flujos de trabajo porque nos ayudan en el p
 
 En los siguientes enlaces tienes información sobre flujos de trabajo. Recomendamos su lectura:
 
-+ [El papel de los flujos de trabajo en la reproducibilidad de la ciencia.](https://github.com/aprendiendo-cosas/Te_introduccion_SIG_II_geoforest/raw/2023_2024/biblio/how_to_flow.pdf) 
-+ Descripción de [Kepler](https://github.com/aprendiendo-cosas/Te_introduccion_SIG_II_geoforest/raw/2023_2024/biblio/kepler.pdf), un sistema de flujo de trabajo científico muy útil (y algo complejo).
-+ [Ejemplos de flujos de trabajo.](https://github.com/aprendiendo-cosas/Te_introduccion_SIG_II_geoforest/raw/2023_2024/biblio/workflow_reusable.pdf) 
++ [El papel de los flujos de trabajo en la reproducibilidad de la ciencia.](https://github.com/aprendiendo-cosas/Te_introduccion_SIG_II_geoforest/raw/2024_2025/biblio/how_to_flow.pdf) 
++ Descripción de [Kepler](https://github.com/aprendiendo-cosas/Te_introduccion_SIG_II_geoforest/raw/2024_2025/biblio/kepler.pdf), un sistema de flujo de trabajo científico muy útil (y algo complejo).
++ [Ejemplos de flujos de trabajo.](https://github.com/aprendiendo-cosas/Te_introduccion_SIG_II_geoforest/raw/2024_2025/biblio/workflow_reusable.pdf) 
 
 A lo largo de la asignatura trabajaremos ejecutando los pasos que se describen en el siguiente flujo de trabajo:
 
